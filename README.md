@@ -9,3 +9,5 @@ Within the directory of these files, to recompile the source code enter the comm
 And to execute the banker file, type:
 
 `./banker`
+
+If needed, I included a small video of the compilation and execution of the banker file.
