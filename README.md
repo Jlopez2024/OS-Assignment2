@@ -4,8 +4,8 @@ The inpupt.txt file is where the allocation and max matrices are stored along wi
 
 Within the directory of these files, to recompile the source code enter the command:
 
-'g++ bankers_algorithm.cpp -o banker'
+`g++ bankers_algorithm.cpp -o banker`
 
 And to execute the banker file, type:
 
-'./banker'
+`./banker`
