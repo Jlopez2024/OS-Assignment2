@@ -10,4 +10,4 @@ And to execute the banker file, type:
 
 `./banker`
 
-If needed, I included a small video of the compilation and execution of the banker file.
+If needed, I included a small video, assignment2-preview.mp4, of the compilation and execution of the banker file.
